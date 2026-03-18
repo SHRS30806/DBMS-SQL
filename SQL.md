@@ -4,7 +4,7 @@ This file documents the SQL statements, describing the schema, sample data, and 
 ## Database and Table Setup
 * **Create the database**
 ```sql
-CREATE DATABASE 2CSE22_1403;
+CREATE DATABASE 2CSE22_Shreyas;
 ```
 * **Select the database**
 
