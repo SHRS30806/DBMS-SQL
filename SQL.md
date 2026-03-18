@@ -9,7 +9,7 @@ CREATE DATABASE 2CSE22_Shreyas;
 * **Select the database**
 
 ```sql
-USE 2CSE22_1403;
+USE 2CSE22_Shreyas;
 ```
 * **Create the table**
 ```sql
